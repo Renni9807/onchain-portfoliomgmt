@@ -16,17 +16,17 @@ const tokens = {
   USDC: {
     address: "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48", // mainnet USDC address
     decimals: 6,
-    imageUrl: "http://localhost:5050/image/USDC_removebg.png", // S3에서 가져온 이미지 URL
+    imageUrl: "http://localhost:5050/image/USDC_removebg.png", // image URL from S3
   },
   USDT: {
     address: "0xdac17f958d2ee523a2206206994597c13d831ec7", // mainnet USDT address
     decimals: 6,
-    imageUrl: "http://localhost:5050/image/USDT_removebg.png", // S3에서 가져온 이미지 URL
+    imageUrl: "http://localhost:5050/image/USDT_removebg.png", // image URL from S3
   },
   ETH: {
     address: "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     decimals: 18,
-    imageUrl: "http://localhost:5050/image/eth.png", // S3에서 가져온 이미지 URL
+    imageUrl: "http://localhost:5050/image/eth.png", // image URL from S3
   },
 };
 
