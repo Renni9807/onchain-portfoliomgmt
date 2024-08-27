@@ -14,7 +14,7 @@ The project consists of several key components:
 
 3. **BalanceDisplay.tsx**: Displays token balances and provides transaction functionality for ETH, USDC, and USDT.
 
-4. ** Hybrid approach with Wagmi and RainbowKit:
+4. Hybrid approach with Wagmi and RainbowKit:
 Wagmi was chosen as the primary library for wallet interactions and blockchain functionality due to its flexibility and customization options.
 RainbowKit was integrated at the root level (main.tsx) to leverage its robust wallet connection handling and provider management.
 Custom UI components were built instead of using RainbowKit's pre-built UI to maintain a consistent design language with the blockchain theme.
