@@ -1,4 +1,4 @@
-# Wallet Connect and Send Transaction DApp
+<img width="763" alt="스크린샷 2024-08-28 오전 3 21 04" src="https://github.com/user-attachments/assets/49b5427c-22c7-4438-ac97-41c136be1ef2"># Wallet Connect and Send Transaction DApp
 
 ## Project Overview
 
@@ -67,3 +67,16 @@ While the current implementation is functional, there are several opportunities 
    - NetworkSelector: A component for network selection.
 **State Management**: Considering the use of a state management library like Redux or Recoil for more efficient state updates and to avoid prop drilling.
 **Conditional Rendering**: Optimizing rendering logic to only show relevant information based on the current state (e.g., connected wallet, selected network) could improve performance.
+
+<img width="763" alt="스크린샷 2024-08-28 오전 3 21 04" src="https://github.com/user-attachments/assets/179d7470-fafb-44ca-a369-592d3ab345a6">
+
+<img width="812" alt="스크린샷 2024-08-28 오전 3 21 24" src="https://github.com/user-attachments/assets/1a6258fd-c96a-4437-85db-8975c95efd67">
+
+<img width="670" alt="스크린샷 2024-08-28 오전 3 24 41" src="https://github.com/user-attachments/assets/d11569ef-6a5c-4c25-970e-cdea461a845b">
+
+<img width="763" alt="스크린샷 2024-08-28 오전 3 21 04" src="https://github.com/user-attachments/assets/2b8604c1-0675-4964-9f07-78b6f898770e">
+
+<img width="787" alt="스크린샷 2024-08-28 오전 3 22 11" src="https://github.com/user-attachments/assets/1765ba4b-88b4-4891-98a3-ea685f241c1a">
+
+<img width="758" alt="스크린샷 2024-08-28 오전 3 25 01" src="https://github.com/user-attachments/assets/443857a3-eaf1-4fc7-8d28-b236e9c68cd5">
+
