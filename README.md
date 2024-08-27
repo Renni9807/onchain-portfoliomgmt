@@ -1,4 +1,4 @@
-<img width="763" alt="스크린샷 2024-08-28 오전 3 21 04" src="https://github.com/user-attachments/assets/49b5427c-22c7-4438-ac97-41c136be1ef2"># Wallet Connect and Send Transaction DApp
+# Wallet Connect and Send Transaction DApp
 
 ## Project Overview
 
@@ -78,5 +78,5 @@ While the current implementation is functional, there are several opportunities 
 
 <img width="787" alt="스크린샷 2024-08-28 오전 3 22 11" src="https://github.com/user-attachments/assets/1765ba4b-88b4-4891-98a3-ea685f241c1a">
 
-<img width="758" alt="스크린샷 2024-08-28 오전 3 25 01" src="https://github.com/user-attachments/assets/443857a3-eaf1-4fc7-8d28-b236e9c68cd5">
+
 
