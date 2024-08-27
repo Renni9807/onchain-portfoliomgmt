@@ -1,3 +1,5 @@
+### DEMO WALLET USED! DO NOT USE THIS WALLET
+
 # Wallet Connect and Send Transaction DApp
 
 ## Project Overview
