@@ -24,7 +24,7 @@ The project consists of several key components:
 - Display of ETH, USDC, and USDT balances
 - Transaction functionality for ETH, USDC, and USDT
 - Responsive design using Tailwind CSS
-- Backend integration with AWS S3 for serving token images
+- Backend integration with AWS S3 for serving token images. IAM also used to access the S3 bucket.
 
 ## Technical Decisions
 
