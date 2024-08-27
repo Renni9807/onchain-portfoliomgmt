@@ -1,4 +1,4 @@
-# Wallet Connect and Token Transfer DApp
+# Wallet Connect and Send Transaction DApp
 
 ## Project Overview
 
