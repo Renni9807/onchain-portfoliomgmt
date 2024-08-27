@@ -24,6 +24,9 @@ Custom UI components were built instead of using RainbowKit's pre-built UI to ma
 ## Key Features
 
 - Wallet connection using various providers (MetaMask, Coinbase Wallet, WalletConnect)
+- RainbowKit is initialized in the main.tsx file, providing its core wallet connection and management capabilities.
+- Instead of using RainbowKit's UI components, custom components were developed to handle wallet connections, balance displays, and transactions.
+- This approach allows for a tailored user interface that aligns with the project's specific design requirements while still benefiting from RainbowKit's robust backend functionality.-
 - Display of ETH, USDC, and USDT balances
 - Transaction functionality for ETH, USDC, and USDT
 - Responsive design using Tailwind CSS
